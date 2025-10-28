@@ -3,7 +3,8 @@
 A modern, responsive todo application built with React, TypeScript, and Tailwind CSS. This project demonstrates best practices for building scalable React applications with clean architecture and modern tooling.
 
 ## 🚀 Live Demo
-[Live Demo](https://to-do-list.com) *(Coming Soon)*
+[![View Live](https://img.shields.io/badge/View-Live-blue?style=for-the-badge)](https://shaktiginare22.github.io/To-Do-List)
+
 
 ## ✨ Features
  
