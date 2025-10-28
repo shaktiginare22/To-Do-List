@@ -6,7 +6,7 @@ A modern, responsive todo application built with React, TypeScript, and Tailwind
 [Live Demo](https://to-do-list.com) *(Coming Soon)*
 
 ## ✨ Features
-
+ 
 - **Modern React** with TypeScript for type safety
 - **Responsive Design** that works on all devices
 - **Clean Architecture** with component-based structure
@@ -61,7 +61,7 @@ todo-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/react-todo-app.git
+   git clone https://github.com/shaktiginare22/To-Do-List
    cd react-todo-app
    ```
 
@@ -154,7 +154,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Shakti Ginare**
 - GitHub: [@Shaktiginare22](https://github.com/Shaktiginare22)
-- LinkedIn: [Shakti Ginare](https://linkedin.com/in/shaktiginare)
+- LinkedIn: [Shakti Ginare](https://www.linkedin.com/in/shakti-ginare-9691ab389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## 🙏 Acknowledgments
 
